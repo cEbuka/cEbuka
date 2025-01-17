@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Simon Chukwuebuka], a passionate developer and tech enthusiast. Welcome to my GitHub profile!
+I'm Simon Chukwuebuka, a passionate developer and tech enthusiast. Welcome to my GitHub profile!
 
 ---
 
