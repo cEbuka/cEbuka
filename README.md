@@ -17,9 +17,9 @@ I'm Simon Chukwuebuka, a passionate developer and tech enthusiast. Welcome to my
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cEbuka&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=cEbuka&theme=radical)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cebuka)](https://git.io/streak-stats)
+
 
 ## 🛠️ Technologies & Tools
 - **Languages**: [C, JavaScript, Solidity, HTML, CSS,]
