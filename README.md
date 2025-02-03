@@ -8,7 +8,7 @@ I'm Simon Chukwuebuka, a passionate developer and tech enthusiast. Welcome to my
 - 🔭 I’m currently working on **[My portfolio]**
 - 🌱 Learning **[React, Solidity, Tailwind, Next.js]**
 - 💬 Ask me about **[Frontend development and smart contracts]**
-- 📫 Reach me at: **[https://x.com/Ebukazky]**
+- 📫 Reach me at: **[X](https://x.com/Ebukazky)**
 - ⚡ Fun fact: **[I love maths]**
 
 ---
